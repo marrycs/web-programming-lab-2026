@@ -198,9 +198,9 @@ You should see a plain page with all the text squashed onto one line. It's suppo
 
 Tick everything before Class 1:
 
-- [ ] I have a GitHub account and know my username
-- [ ] VS Code opens, with **Live Server**, **Prettier** and **PHP Intelephense** installed
-- [ ] Auto Save is on
+- [/] I have a GitHub account and know my username
+- [/] VS Code opens, with **Live Server**, **Prettier** and **PHP Intelephense** installed
+- [/] Auto Save is on
 - [ ] `git --version` shows a version number
 - [ ] `git config --global --list` shows my name and email
 - [ ] Apache and MySQL start (green / Running)
